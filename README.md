@@ -18,11 +18,12 @@ Get the author name from the descritpion of the spotted poster and look for it h
 
 ## How to use
 You will need to have [python3 interpreter](https://www.python.org/downloads/) installed.
-Probably you alredy have it, you recheck it running `python --version` in your Terminal
-After that just install jupyter-lab if you don't already
+Probably you alredy have it, try to run `python --version` in your Terminal. If it works - all good :)
+
+After that just install `jupyter-lab` if you don't also already have it.
 
 `pip install jupyterlab`
 
-Then just execute `jupyter-lab` from your terminal, it will open in a browser. Select that file there and press "Run All",
-all code within the cells would be executed after that
+Then just run `jupyter-lab` in your terminal, that will open a tab with lab inyour brouser. Open `dubistamzug.ipynb` there and press "Run All".
+All code within the cells would be executed after that
 
