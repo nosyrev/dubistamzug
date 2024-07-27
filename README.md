@@ -20,9 +20,9 @@ Get the author name from the descritpion of the spotted poster and look for it h
 You will need to have [python3 interpreter](https://www.python.org/downloads/) installed.
 Probably you alredy have it, try to run `python --version` in your Terminal. If it works - all good :)
 
-After that just install `jupyter-lab` if you don't also already have it.
+After that just install `jupyter-lab` and `pandas` if you don't also already have it.
 
-`pip install jupyterlab`
+`pip install jupyterlab pandas`
 
 Then just run `jupyter-lab` in your terminal, that will open a tab with lab inyour brouser. Open `dubistamzug.ipynb` there and press "Run All".
 All code within the cells would be executed after that
