@@ -10,8 +10,14 @@ https://www.facebook.com/dubistamzugberlin
 ## Getting .kml map
 Current notebook is tailored to work with the 2024 version of it, some things could be different for the future versions.
 
-Open [map](https://www.google.com/maps/d/u/0/viewer?mid=1jXqAMP9-YYyS75qjMMC6zf45UsSkVIs&ll=52.530777634910116%2C13.465575394245812&z=10),
+Open one of those Google Maps
+- [Stadorte DBAZ 2024 1. & 2. Woche](https://www.google.com/maps/d/u/0/viewer?mid=1jXqAMP9-YYyS75qjMMC6zf45UsSkVIs&ll=52.530777634910116%2C13.465575394245812&z=10)
+- [Stadorte DBAZ 2024 Woche 3](https://www.google.com/maps/d/u/0/viewer?mid=1wRl3iviQosW3gyxi463XCI5FKFUd5h4&ll=52.475782817359%2C13.41569104978459&z=11)
+
+
 press on three vertical dots, choose "Download KML", choose "Export to KML instead of KMZ", press "OK"
+
+Or just run the notebook with valid `mid` value in the first cell.
 
 ## Original posters
 Get the author name from the descritpion of the spotted poster and look for it here: https://dubistamzug.net/en/gallery/
